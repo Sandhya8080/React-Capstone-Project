@@ -1,0 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* By Default amount of space an Element will takes equal its height/width + padding
+*/
